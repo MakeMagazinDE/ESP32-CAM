@@ -1,5 +1,8 @@
 ![GitHub Logo](http://www.heise.de/make/icons/make_logo.png)
 
-# ESP32-CAM
-Angepasster Sketch von CameraWebServer
 
+Angepasster Sketch von CameraWebServer zum Artikel
+
+# ESP32-CAM
+
+![Cover](https://github.com/MakeMagazinDE/ESP32-Special/blob/master/aufmacher.jpg

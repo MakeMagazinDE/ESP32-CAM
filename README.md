@@ -5,4 +5,4 @@ Angepasster Sketch von CameraWebServer zum Artikel
 
 # ESP32-CAM
 
-![Cover](https://github.com/MakeMagazinDE/ESP32-Special/blob/master/aufmacher.jpg
+![Cover](https://github.com/MakeMagazinDE/ESP32-CAM/blob/master/aufmacher.jpg
